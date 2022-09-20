@@ -21,3 +21,4 @@ It starts by one player standing with their legs on either side of the chest of 
 
 ---
 # References
+BJJ Class @ The Cellar 9/19/2022
