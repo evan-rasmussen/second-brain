@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "472723b00dab993c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ea0a459372022a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Zettelkasten/Zettelkasten.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2daa43ed08ff487",
+    "type": "split",
+    "children": [
+      {
+        "id": "2df1b5cc32c2ed21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b21064ec6325718a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc2057e737e181d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#idea",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9174c5c6639868b9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b14ef920ede718d",
+    "type": "split",
+    "children": [
+      {
+        "id": "af9e153126473e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "384057d341a44739",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Zettelkasten/Zettelkasten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7de396beb86d9991",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 Zettelkasten/Zettelkasten.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e2276f092e66200",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3cac05f1aa12895",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 Zettelkasten/Zettelkasten.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8ea0a459372022a8",
+  "lastOpenFiles": [
+    "000 Zettelkasten/2022-09-20.md",
+    "000 Zettelkasten/Zettelkasten.md",
+    "Templates/Core Zettle Idea.md",
+    "Templates/Map Of Content (MOC).md"
+  ]
+}
