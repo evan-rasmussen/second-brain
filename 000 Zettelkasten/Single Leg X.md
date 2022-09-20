@@ -13,8 +13,11 @@ It starts by one player standing with their legs on either side of the chest of 
 # Tips while in this position
 * Try to touch heel of outer foot to knee of inner foot by really hipping up. This makes the opponent more off balanced
 
-# Takedowns from this position
+# Sweeps from this position
+* [[Twisting Sweep]]
 
+# Submissions from this postion
+* [[Straight Ankle Lock]]
 
 ---
 # References
