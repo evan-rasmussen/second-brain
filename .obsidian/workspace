@@ -4,12 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8ea0a459372022a8",
+        "id": "21befd310546057f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "3215f477c4ff4d26",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Zettelkasten/Single Leg X.md",
+            "file": "000 Zettelkasten/Single Leg X-Guard.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Zettelkasten/Single Leg X.md",
+                "file": "000 Zettelkasten/Single Leg X-Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Zettelkasten/Single Leg X.md",
+                "file": "000 Zettelkasten/Single Leg X-Guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Zettelkasten/Single Leg X.md"
+                "file": "000 Zettelkasten/Single Leg X-Guard.md"
               }
             }
           }
@@ -128,12 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ea0a459372022a8",
+  "active": "21befd310546057f",
   "lastOpenFiles": [
-    "000 Zettelkasten/Single Leg X.md",
-    "000 Zettelkasten/Zettelkasten.md",
-    "000 Zettelkasten/2022-09-20.md",
-    "Templates/Core Zettle Idea.md",
-    "Templates/Map Of Content (MOC).md"
+    "000 Zettelkasten/Scissor Sweep from X-Guard.md",
+    "000 Zettelkasten/X-Guard.md",
+    "000 Zettelkasten/Reverse X-Guard.md",
+    "000 Zettelkasten/Single Leg X-Guard.md",
+    "000 Zettelkasten/[.md",
+    "X-Guard/Pulling.md",
+    "000 Zettelkasten/Guards.md",
+    "000 Zettelkasten/Twisting Sweep.md",
+    "Files/SingleLegX_Sweep4.png",
+    "000 Zettelkasten/Zettelkasten.md"
   ]
 }
