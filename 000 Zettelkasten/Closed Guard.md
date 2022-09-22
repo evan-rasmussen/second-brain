@@ -16,9 +16,21 @@ It involves the bottom player wrapping their legs around the top player and lock
 
 ## Pulling Closed Guard
 
+
 ## Escaping/Passing Closed Guard
-* [[Elbow Drive Escape]]
+* [[Elbow Drive Escape]] into [[Double Under Pass]]
 * [[Bully Pass]]
+
+### Sweeps from this position
+* [[Scissor Sweep from Closed Guard]]
+* [[Hip Bump Sweep from Closed Guard]]
+
+### Submissions from this position
+* [[Kimura from Closed Guard]]
+* [[Armbar from Closed Guard]]
+* [[Triangle from Closed Guard]]
+* [[Omaplata from Closed Guard]]
+
 
 ---
 # References
