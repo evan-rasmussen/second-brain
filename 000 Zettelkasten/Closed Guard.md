@@ -15,7 +15,10 @@ It involves the bottom player wrapping their legs around the top player and lock
 * As the top player, do not stick your arms too far up on the bottom player, otherwise you will get armbared. Try to keep "T-Rex arms".
 
 ## Pulling Closed Guard
-
+1. From standing position, get a collar and sleeve grip.
+2. Post the leg that is on the sleeve grip side onto the opponent's hip.
+3. As you fall to the ground, pull the oppenent down using your collar grip, breaking their posture.
+4. Once your back hits the ground, shoot your hips up to your opponent's hips, using the collar grip side foot to wrap around their back. Finish by locking your legs.
 
 ## Escaping/Passing Closed Guard
 * [[Elbow Drive Escape]] into [[Double Under Pass]]
