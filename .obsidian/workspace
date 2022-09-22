@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Zettelkasten/Reverse X-Guard.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "ad5679dd62a360a4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "000 Zettelkasten/X-Guard.md",
+            "file": "000 Zettelkasten/Closed Guard.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Zettelkasten/Reverse X-Guard.md",
+                "file": "000 Zettelkasten/Closed Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Zettelkasten/Reverse X-Guard.md",
+                "file": "000 Zettelkasten/Closed Guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Zettelkasten/Reverse X-Guard.md"
+                "file": "000 Zettelkasten/Closed Guard.md"
               }
             }
           }
@@ -142,12 +130,12 @@
   },
   "active": "d1cf15f6910b7318",
   "lastOpenFiles": [
-    "000 Zettelkasten/Scissor Sweep from X-Guard.md",
     "000 Zettelkasten/X-Guard.md",
     "000 Zettelkasten/Closed Guard.md",
+    "000 Zettelkasten/Reverse X-Guard.md",
+    "000 Zettelkasten/Scissor Sweep from X-Guard.md",
     "000 Zettelkasten/Twisting Sweep.md",
     "000 Zettelkasten/Guards.md",
-    "000 Zettelkasten/Reverse X-Guard.md",
     "000 Zettelkasten/Single Leg X-Guard.md",
     "conflict-files-obsidian-git.md",
     "000 Zettelkasten/Single Leg X.md",
