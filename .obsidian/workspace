@@ -7,8 +7,12 @@
         "id": "d1cf15f6910b7318",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "000 Zettelkasten/Closed Guard.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000 Zettelkasten/Closed Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000 Zettelkasten/Closed Guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000 Zettelkasten/Closed Guard.md"
+              }
             }
           }
         ],
@@ -121,8 +129,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b21064ec6325718a",
+  "active": "d1cf15f6910b7318",
   "lastOpenFiles": [
+    "000 Zettelkasten/Guards.md",
     "conflict-files-obsidian-git.md",
     "000 Zettelkasten/Single Leg X.md",
     "000 Zettelkasten/Zettelkasten.md",
