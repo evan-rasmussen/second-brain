@@ -1,6 +1,6 @@
 2209231403
 Status: #idea
-Tags: 
+Tags: [[Tableau]], [[Data Analysis]]
 
 # Aggregation - SUM
 
