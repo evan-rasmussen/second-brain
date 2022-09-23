@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Zettelkasten/Aggregation - ATTR.md",
+            "file": "000 Zettelkasten/Joins.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Zettelkasten/Aggregation - ATTR.md",
+                "file": "000 Zettelkasten/Joins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Zettelkasten/Aggregation - ATTR.md",
+                "file": "000 Zettelkasten/Joins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Zettelkasten/Aggregation - ATTR.md"
+                "file": "000 Zettelkasten/Joins.md"
               }
             }
           }
@@ -143,6 +143,7 @@
   },
   "active": "4eccff46bd048275",
   "lastOpenFiles": [
+    "000 Zettelkasten/Aggregation - ATTR.md",
     "000 Zettelkasten/Aggregation - COUNT & COUNTD.md",
     "Files/Aggregation_CountCountD.png",
     "000 Zettelkasten/Aggregation - SUM.md",
@@ -151,7 +152,6 @@
     "000 Zettelkasten/Aggregation - AVG.md",
     "000 Zettelkasten/Aggregation - MAX & MIN.md",
     "000 Zettelkasten/Seven Data Stories.md",
-    "000 Zettelkasten/Untitled.md",
-    "000 Zettelkasten/Closed Guard.md"
+    "000 Zettelkasten/Joins.md"
   ]
 }
