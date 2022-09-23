@@ -2,11 +2,11 @@
 Status: #idea
 Tags: [[Tableau]], [[Data Analysis]]
 
-# Aggregation - COUNT & COUNTD
+# Aggregation - ATTR
 
-COUNT is the number of rows in a group whereas COUNTD is the number of unique rows in a group.
+An aggrigation function that returns a value only if there is one value for an entire group, otherwise it returns "\*".
 
-![[Aggregation_CountCountD.png]]
+![[Aggregation_Attr.png]]
 
 
 ---
