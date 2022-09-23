@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Zettelkasten/Seven Data Stories.md",
+            "file": "000 Zettelkasten/Unions.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Zettelkasten/Seven Data Stories.md",
+                "file": "000 Zettelkasten/Unions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Zettelkasten/Seven Data Stories.md",
+                "file": "000 Zettelkasten/Unions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Zettelkasten/Seven Data Stories.md"
+                "file": "000 Zettelkasten/Unions.md"
               }
             }
           }
@@ -131,6 +131,8 @@
   },
   "active": "4eccff46bd048275",
   "lastOpenFiles": [
+    "000 Zettelkasten/Seven Data Stories.md",
+    "000 Zettelkasten/Unions.md",
     "000 Zettelkasten/Untitled.md",
     "000 Zettelkasten/Closed Guard.md",
     "000 Zettelkasten/X-Guard.md",
@@ -138,8 +140,6 @@
     "000 Zettelkasten/Scissor Sweep from X-Guard.md",
     "000 Zettelkasten/Twisting Sweep.md",
     "000 Zettelkasten/Guards.md",
-    "000 Zettelkasten/Single Leg X-Guard.md",
-    "conflict-files-obsidian-git.md",
-    "000 Zettelkasten/Single Leg X.md"
+    "000 Zettelkasten/Single Leg X-Guard.md"
   ]
 }
