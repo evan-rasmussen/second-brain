@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Zettelkasten/Joins.md",
+            "file": "000 Zettelkasten/Right Join.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "df13f2e4bf23ac24",
+        "id": "bce5971395bb291f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Zettelkasten/Unions.md",
+            "file": "000 Zettelkasten/Joins.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Zettelkasten/Joins.md",
+                "file": "000 Zettelkasten/Right Join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Zettelkasten/Joins.md",
+                "file": "000 Zettelkasten/Right Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Zettelkasten/Joins.md"
+                "file": "000 Zettelkasten/Right Join.md"
               }
             }
           }
@@ -143,15 +143,15 @@
   },
   "active": "4eccff46bd048275",
   "lastOpenFiles": [
+    "000 Zettelkasten/Left Join.md",
+    "000 Zettelkasten/Inner Join.md",
+    "000 Zettelkasten/Full Join.md",
+    "000 Zettelkasten/Right Join.md",
+    "000 Zettelkasten/Joins.md",
+    "000 Zettelkasten/Unions.md",
+    "000 Zettelkasten/Aggregation - ATTR.md",
     "Files/Full_Join.png",
     "Files/Right_Join.png",
-    "Files/Left_Join.png",
-    "000 Zettelkasten/Joins.md",
-    "000 Zettelkasten/Aggregation - ATTR.md",
-    "000 Zettelkasten/Aggregation - COUNT & COUNTD.md",
-    "Files/Aggregation_CountCountD.png",
-    "000 Zettelkasten/Aggregation - SUM.md",
-    "000 Zettelkasten/Unions.md",
-    "Files/Aggregation_Sum.png"
+    "Files/Left_Join.png"
   ]
 }
