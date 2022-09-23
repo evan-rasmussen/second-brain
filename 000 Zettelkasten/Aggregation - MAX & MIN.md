@@ -4,9 +4,9 @@ Tags: [[Tableau]], [[Data Analysis]]
 
 # Aggregation - MAX & MIN
 
-In an aggregation max/min we group by columns and then get the max or min from the other columns. In the image below, we are grouping by Year and getting the max or min from the Sales and Revenue columns.
+In an aggregation max/min we group by columns and then get the max or min from the other columns. In the image below, we are grouping by Year and getting the min from the Sales column and the max from the Revenue column.
 
-![[Pasted image 20220923141153.png]]
+![[Aggregation_MaxMin.png]]
 
 
 ---
