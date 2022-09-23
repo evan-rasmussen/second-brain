@@ -15,4 +15,4 @@ Tags: [[Tableau]], [[Data Analysis]]
 
 ---
 # References
-[Tab]
+[Tableau Beginner Course - From Nothing to Something - Shashank Kalanithi](https://youtu.be/Gl2lg-TtRJo?t=3136)
